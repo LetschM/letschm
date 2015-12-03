@@ -1,5 +1,5 @@
 i added a README.txt file only for testing git functionality.
-
+This is the second commit for this file. It should be checked in per commit file.
 
 
 B
